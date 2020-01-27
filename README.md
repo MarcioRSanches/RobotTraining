@@ -1,6 +1,9 @@
 # RobotTraining
 Pequeno exemplo de teste E2E e API com Robot Framework
 
+## Documentação:
+
+https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html
 
 ## Como usar??
 
