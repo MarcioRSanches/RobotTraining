@@ -56,3 +56,5 @@ Para escrever as Keywords é sempre no padrão acima, a frase para o Test Case s
 O exemplo do arquivo de teste e2e(robot-suites) nesse repositório utiliza a SeleniumLibrary com BDD, o Robot Framework aceita o BDD em inglês(Given, When, Then e But)
 
 O teste de API(pokemon-api-test) usa as Libraries RequestsLibrary para requisições HTTP e a Library Collections para assertions, não foi usado BDD nesse tipo de teste por preferências.
+
+Os arquivos adicionais são os logs/test report além de screenshots feitos após o teste.
