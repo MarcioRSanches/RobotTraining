@@ -40,6 +40,7 @@ O teste em si utilizando as Keywords
 ***Keywords***
 
 São ações que definem um step no Test Cases.
+
 Ex:
 
   Abrir o navegador
